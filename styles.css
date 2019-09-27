@@ -1,0 +1,21 @@
+body {
+    background: #5d41ff;
+
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    color: #ffffff;
+}
+
+.repeat {
+    color: #c0602b;
+}
+
+h2 {
+    color: #ff0000;
+    text-align: center;
+}
